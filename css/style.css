@@ -1,0 +1,69 @@
+[class*="col-"] {
+  width: 100%;
+}
+
+@media only screen and (min-width: 600px) {
+  .col-md-6 {width: 50%;}
+  .col-sm-4 {width: 33.33%}
+}
+
+@media only screen and (min-width: 768px) {
+  .col-md-6 {width: 50%;}
+  .col-sm-4 {width: 33.33%}
+}
+
+.bg {
+	background-image: url(https://lh3.googleusercontent.com/proxy/oU2HX6tDDw3i6gMK9d04olkJlboItegsPIhj0mjRUrBCiQenmDkm85vMByPIhpcExbyJT2QpIYCFyNTGqqTxnFEwI2bVRWlNY6Gdyp76Qt4)
+}
+
+.carousel-size {
+	height: 300px;
+	width: 645px;
+	margin-top: 75px;
+	margin-left: 120px;
+}
+
+.carousel-buttons {
+	margin-left: 230px;
+}
+
+.container-style {
+	margin-top: 75px;
+}
+
+.image-size {
+	width: 760px;
+}
+
+.cards-style1 {
+	height: 5rem;
+	width: 280px;
+	margin-left: 280px;
+	margin-top: 80px;
+}
+
+.cards-style2 {
+	height: 5rem;
+	width: 280px;
+	margin-left: 145px;
+	margin-top: 80px;
+}
+
+.cards-style3 {
+	height: 5rem;
+	width: 280px;
+	margin-top: 80px;
+	margin-right: 150px;
+}
+
+.cardsimg {
+	width: 280px;
+	height: 210px;
+}
+
+.buttonstyle {
+	margin-top: 40px;
+	margin-left: 676px;
+	background-color: grey;
+	border-color: grey;
+}
